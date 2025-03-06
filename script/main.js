@@ -279,7 +279,7 @@ const animationTimeline = () => {
 .from(".message-6", 0.7, ideaTextTrans)
 .to(".message-6", 0.7, ideaTextTransLeave, "+=6")
 .from(".message-7", 0.7, ideaTextTrans)
-.to(".message-7", 0.7, ideaTextTransLeave, "+=3")
+.to(".message-7", 0.7, ideaTextTransLeave, "+=4")
 .from(".final-message", 0.7, ideaTextTrans)
 .from("#replay", 0.7, {
     opacity: 0,
